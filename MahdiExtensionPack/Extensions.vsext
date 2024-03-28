@@ -1,0 +1,18 @@
+{
+  "description": "Read about creating extension packs at https://aka.ms/vsextpack",
+  "version": "1.0.0.0",
+  "extensions": [
+    {
+      "vsixId": "7badbb47-7faf-4264-b15d-3b6b23da44fe",
+      "name": "MSBuildEditor"
+    },
+    {
+      "vsixId": "WinUICommunity_VS_Templates.8944ffa3-95dc-4d19-8ec7-2b21dad0eaf5",
+      "name": "WinUICommunity Templates for WinUI"
+    },
+    {
+      "vsixId": "2c8bcbae-2bdd-46e4-8856-ce48cf9a7223",
+      "name": "XAML Styler for Visual Studio 2022"
+    }
+  ]
+}
